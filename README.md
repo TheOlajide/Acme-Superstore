@@ -2,7 +2,6 @@
 ---
 ## Table of content
 
-- [Table of content](#table-of-content)
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
