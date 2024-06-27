@@ -94,6 +94,10 @@ Rubber band is the least of sales in product sub-category.
   -   ⁠Copiers and Fax
 
   -  Office Furnitures
+  
+  -  Appliances
+
+![product sub category by profit](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/1113389e-b229-4873-82c8-14d2343aa504)
 
 
 5. Below are the bottom six least performing products with a negative revenue return(Loss).
