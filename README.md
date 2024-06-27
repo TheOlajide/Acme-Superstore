@@ -1,5 +1,8 @@
 ## Acme Superstore Sales Analysis
 ---
+![acme superstore visual](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/6475f3c4-1174-477d-91db-875e1d0c8868)
+
+
 ## Table of content
 
 - [Project Overview](#project-overview)
