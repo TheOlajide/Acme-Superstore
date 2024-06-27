@@ -115,11 +115,15 @@ Rubber band is the least of sales in product sub-category.
 
 6. Sales are highest in April and lowest in march.
  
+![sales by month](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/95773901-c61a-48b0-afc9-521bd13ded20)
+
 
 7. ⁠Office Supply has the highest profit in product category.
-     
 
-8. ⁠Technology items are the most sold in the product category.
+ ![product category, sales,profit, avg discont](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/866ad8a8-4a54-4287-a1f5-372470fecf02)
+
+
+9. ⁠Technology items are the most sold in the product category.
 
 
 10. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
