@@ -1,36 +1,36 @@
 ## Acme Superstore Sales Analysis
 
-- (Table of content)[#Table of content]
-- (Project Overview)[#Project Overview]
-- (Data Source)[#Data-Source]
-- (Tools)[#Tools]
-- (Data Cleaning and preparation)[#Data-Cleaning-and-preparation)
-- (Exploratory Data Analysis)[#Exploratory-Data-Analysis]
-= (Results and Findings)[#Results-and-Findings]
+- (Table of content)[#table-of-content]
+- (Project Overview)[#project-overview]
+- (Data Source)[#data-source]
+- (Tools)[#tools]
+- (Data Cleaning and preparation)[#data-cleaning-and-preparation)
+- (Exploratory Data Analysis)[#exploratory-data-analysis]
+= (Results and Findings)[#results-and-findings]
 - (Recommendations)[#Recommendations]
-- [Limitations](#Limitation)
+- (Limitations)[#Limitation]
 
-Project overview
+##  Project overview
 
 The Analyses aim to give insight on sales performance via revenue generation(from each product category and subcategory featured in the Dataset) across a period of six months. It also aims to give insight on sales by four different customer segments(Corporate, Home Office, Small Business and Consumer).
 
-Data Source
+##  Data Source
 
 Dataset is from Acme Software Lab.
 
-Tools
+## Tools
 • Microsoft Excel
 • Microsoft PowerBI
 
-Data Cleaning and Preparation
+## Data Cleaning and Preparation
 
 The data is generally clean enough, apart from a white space on one of the columns which was removed. Data cleaning and preparation was carried out in PowerBi. Original dataset was provided in csv format.
 
-Exploratory Data Analysis(EDA)
+## Exploratory Data Analysis(EDA)
 Objectives of EDA:
 EDA involved creating visuals to give insight on what’s up with the business.
 
-Results and findings
+## Results and findings
 
 From the analysis of data, the following can be inferred;
 1. Corporate customers have the highest patronage(34%)followed by small businesses(24%). But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
@@ -71,7 +71,7 @@ Rubber band is the least of sales in product sub-category.
 
 9. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
 
-Conclusion and Recommendation
+## Conclusion and Recommendation
 
 1. There are six low performing products that the company can stop selling with immediate effect. It can be inferred that they are not just low performing but bad performing, returning a loss and reducing overall revenue return.
 
@@ -94,6 +94,6 @@ Office machine contributes about 3.94% of total profit as compared to a relative
 
 5. ⁠Products sub-categories with high sales and low profit(e.g Storage and organization) should have an upward review on selling price while products sub-categories with low sales and high revenue return(profit) should be discounted.
 
-Limitations
+## Limitations
 
 There are no limitations in the analysis and exploration of this dataset.
