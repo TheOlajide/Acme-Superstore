@@ -128,7 +128,9 @@ Rubber band is the least of sales in product sub-category.
 ![product category, sales,profit, avg discont](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/1018ed1f-46d5-49ff-96c3-00a33b893197)
 
 10. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
- 
+
+ ![line chart](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/3ca833ab-8d30-43bc-a9ce-c6bbb8332419)
+
 
 ## Conclusion and Recommendation
 ---
