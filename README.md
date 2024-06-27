@@ -53,12 +53,19 @@ EDA involved creating visuals to give insight on what’s up with the business.
 From the analysis of data, the following can be inferred;
 
 1. Corporate customers have the highest patronage(34%)followed by small businesses(24%). But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
+
+![sales by customer segment](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/031a7175-a598-4011-99e0-b1b2d62c55af)
+
  
 2. ⁠(Top five sales)Office Machines have the highest sales in product sub-category, followed by
   - Chairs & chairmats
   - Telephone and communication
   -  Tables
   -  Binders and Accessories.
+ 
+![product sub category by sales](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/f2084345-44b2-4225-9417-2e27d1026f8f)
+
+
 
 3. ⁠Bottom Five product subcategory by Sales are;
 
