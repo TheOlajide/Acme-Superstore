@@ -28,9 +28,9 @@ Dataset is from Acme Software Lab.
 ## Tools
 ---
 
-• Microsoft Excel
+  -  Microsoft Excel
 
-• Microsoft PowerBI
+  -  Microsoft PowerBI
 
 ## Data Cleaning and Preparation
 ---
@@ -50,55 +50,60 @@ EDA involved creating visuals to give insight on what’s up with the business.
 From the analysis of data, the following can be inferred;
 
 1. Corporate customers have the highest patronage(34%)followed by small businesses(24%). But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
-3. ⁠(Top five sales). Office Machines have the highest sales in product sub-category, followed by
-• Chairs & chairmats
-• ⁠Telephone and communication
-• ⁠Tables
-• ⁠Binders and Accessories.
+ 
+2. ⁠(Top five sales)Office Machines have the highest sales in product sub-category, followed by
+  - Chairs & chairmats
+  - Telephone and communication
+  -  Tables
+  -  Binders and Accessories.
 
-4. ⁠Bottom Five product subcategory by Sales are;
+3. ⁠Bottom Five product subcategory by Sales are;
 
--  pens and Arts Supplies
+  -  pens and Arts Supplies
 
--  Envelopes
+  -  Envelopes
 
--  Scissors rulers trimmers
+  -  Scissors rulers trimmers
 
--  ⁠Labels
+  -  ⁠Labels
 
--  ⁠Rubber band.
+  -  ⁠Rubber band.
 Rubber band is the least of sales in product sub-category.
 
 
-5. ⁠Binders and Binder Accessories are the most profitable product in product sub-category, followed by
+4. ⁠Binders and Binder Accessories are the most profitable product in product sub-category, followed by
 
--  Chairs and chairmat
+  -  Chairs and chairmat
 
--  Telephones and communication
+  -  Telephones and communication
 
-- ⁠Copiers and Fax
+  -   ⁠Copiers and Fax
 
--  Office Furnitures
-
-
-6. Below are the bottom six least performing products with a negative revenue return(Loss).
-
--  Pens and Arts Supplies
--  Bookcases
--  envelopes
--  scissors
--  Rulers and Trimmers
--  Rubber Band
--  Tables
+  -  Office Furnitures
 
 
-7. Sales are highest in April and lowest in march.
+5. Below are the bottom six least performing products with a negative revenue return(Loss).
 
-8. ⁠Office Supply has the highest profit in product category.
+  -  Pens and Arts Supplies
+  -  Bookcases
+  -  envelopes
+  -  scissors
+  -  Rulers and Trimmers
+  -  Rubber Band
+  -  Tables
 
-9. ⁠Technology items are the most sold in the product category.
+
+6. Sales are highest in April and lowest in march.
+ 
+
+7. ⁠Office Supply has the highest profit in product category.
+     
+
+8. ⁠Technology items are the most sold in the product category.
+
 
 10. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
+ 
 
 ## Conclusion and Recommendation
 ---
@@ -107,12 +112,12 @@ Rubber band is the least of sales in product sub-category.
 
 These products are;
 
--  Pens and art supplies
--  Bookcases
--  envelopes
--  sccissors, rulers and trimmers.
--  rubber band
--  tables
+  -  Pens and art supplies
+  -  Bookcases
+  -  envelopes
+  -  sccissors, rulers and trimmers.
+  -  rubber band
+  -  tables
 
 They amount to a loss of $12, 458.48 which is about 5.56% of total profit.
 
