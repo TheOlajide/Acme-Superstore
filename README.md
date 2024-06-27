@@ -109,6 +109,8 @@ Rubber band is the least of sales in product sub-category.
   -  Rulers and Trimmers
   -  Rubber Band
   -  Tables
+ 
+![product sub category by profit2](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/dc2e6273-9fb9-4abc-9e5c-8d14877aacf2)
 
 
 6. Sales are highest in April and lowest in march.
