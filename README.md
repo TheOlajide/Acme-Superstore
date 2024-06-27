@@ -57,11 +57,12 @@ From the analysis of data, the following can be inferred;
 ![sales by customer segment](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/031a7175-a598-4011-99e0-b1b2d62c55af)
 
  
-2. ⁠(Top five sales)Office Machines have the highest sales in product sub-category, followed by
+2. ⁠(Top six sales)Office Machines have the highest sales in product sub-category, followed by
   - Chairs & chairmats
   - Telephone and communication
   -  Tables
-  -  Binders and Accessories.
+  -  Binders and Binder Accessories.
+  -  Storage and Organisation
  
 ![product sub category by sales](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/f2084345-44b2-4225-9417-2e27d1026f8f)
 
@@ -79,6 +80,9 @@ From the analysis of data, the following can be inferred;
 
   -  ⁠Rubber band.
 Rubber band is the least of sales in product sub-category.
+
+![by sales2](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/faf43d24-288d-421e-b2ee-c051e45efa09)
+
 
 
 4. ⁠Binders and Binder Accessories are the most profitable product in product sub-category, followed by
