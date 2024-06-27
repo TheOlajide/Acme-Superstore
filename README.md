@@ -1,15 +1,16 @@
 ## Acme Superstore Sales Analysis
 ---
+## Table of content
 
-- (Table of content)[#table-of-content]
-- (Project Overview)[#project-overview]
-- (Data Source)[#data-source]
-- (Tools)[#tools]
-- (Data Cleaning and preparation)[#data-cleaning-and-preparation)
-- (Exploratory Data Analysis)[#exploratory-data-analysis]
-= (Results and Findings)[#results-and-findings]
-- (Recommendations)[#Recommendations]
-- (Limitations)[#Limitation]
+- [Table of content](#table-of-content)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
+- [Limitations](#limitations) 
 
 ##  Project overview
 ---
@@ -37,7 +38,7 @@ Dataset is from Acme Software Lab.
 
 The data is generally clean enough, apart from a white space on one of the columns which was removed. Data cleaning and preparation was carried out in PowerBi. Original dataset was provided in csv format.
 
-## Exploratory Data Analysis(EDA)
+## Exploratory Data Analysis
 ---
 
 Objectives of EDA:
