@@ -1,15 +1,15 @@
 ## Acme Superstore Sales Analysis
 
-Table of content
-Project Overview
-Data Source
-Tools
-Data Cleaning and preparation
-Exploratory Data Analysis
-Results and Findings
-Recommendations
-Limitations
-[Limitation](limitation)
+- Table of content
+- Project Overview
+- Data Source
+- Tools
+- Data Cleaning and preparation
+- Exploratory Data Analysis
+= Results and Findings
+- Recommendations
+- [Limitations](limitation)
+[Limitation](#limitation)
 
 Project overview
 
