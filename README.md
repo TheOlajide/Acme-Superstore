@@ -1,15 +1,14 @@
 ## Acme Superstore Sales Analysis
 
-- Table of content
-- Project Overview
-- Data Source
-- Tools
-- Data Cleaning and preparation
-- Exploratory Data Analysis
-= Results and Findings
-- Recommendations
-- [Limitations](limitation)
-[Limitation](#limitation)
+- (Table of content)[#Table of content]
+- (Project Overview)[#Project Overview]
+- (Data Source)[#Data-Source]
+- (Tools)[#Tools]
+- (Data Cleaning and preparation)[#Data-Cleaning-and-preparation)
+- (Exploratory Data Analysis)[#Exploratory-Data-Analysis]
+= (Results and Findings)[#Results-and-Findings]
+- (Recommendations)[#Recommendations]
+- [Limitations](#Limitation)
 
 Project overview
 
@@ -95,6 +94,6 @@ Office machine contributes about 3.94% of total profit as compared to a relative
 
 5. ⁠Products sub-categories with high sales and low profit(e.g Storage and organization) should have an upward review on selling price while products sub-categories with low sales and high revenue return(profit) should be discounted.
 
-Limitations:
+Limitations
 
 There are no limitations in the analysis and exploration of this dataset.
