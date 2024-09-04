@@ -1,6 +1,7 @@
 ## Acme Superstore Sales Analysis
 ---
-![acme superstore visual](https://github.com/user-attachments/assets/137360d0-269b-42eb-8802-c0ba8aa14599)
+![acme superstore visual](https://github.com/user-attachments/assets/18d8ffc0-c396-430a-a738-2d775ee68a2c)
+
 
 
 
@@ -123,16 +124,20 @@ Rubber band is the least of sales in product sub-category.
 
 7. ⁠Office Supply has the highest profit in product category.
 
- ![product category, sales,profit, avg discont](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/866ad8a8-4a54-4287-a1f5-372470fecf02)
+![table4](https://github.com/user-attachments/assets/4c841786-2070-4809-a321-6dbfa9b6c860)
+
+ 
 
 
 8. ⁠Technology items are the most sold in the product category.
 
+![table4](https://github.com/user-attachments/assets/f0adbe7e-0cdf-46e3-83a4-65bf046c3188)
 
 
-9. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
+9. ⁠There’s a flunctuating pattern in monthly profit with increment and decrement following each other sequentially. But increment from april upward.
 
-![sales line chart](https://github.com/user-attachments/assets/e60a14ba-4128-4c6e-b2e2-0a1e4c42ff9b)
+![waterfall](https://github.com/user-attachments/assets/2da49c08-dacb-4e1a-b280-451ae3fba9af)
+
 
  
 
