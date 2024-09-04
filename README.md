@@ -1,6 +1,7 @@
 ## Acme Superstore Sales Analysis
 ---
-![acme superstore visual](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/6475f3c4-1174-477d-91db-875e1d0c8868)
+![acme superstore visual](https://github.com/user-attachments/assets/137360d0-269b-42eb-8802-c0ba8aa14599)
+
 
 
 ## Table of content
@@ -52,9 +53,10 @@ EDA involved creating visuals to give insight on what’s up with the business.
 
 From the analysis of data, the following can be inferred;
 
-1. Corporate customers have the highest patronage(34%)followed by small businesses(24%). But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
+1. Corporate customers have the highest patronage, folowed by small businesses. But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
 
-![sales by customer segment](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/031a7175-a598-4011-99e0-b1b2d62c55af)
+![customer](https://github.com/user-attachments/assets/8de0122f-339f-4922-84da-9aeffe76cecb)
+
 
  
 2. ⁠(Top six sales)Office Machines have the highest sales in product sub-category, followed by
@@ -115,7 +117,8 @@ Rubber band is the least of sales in product sub-category.
 
 6. Sales are highest in April and lowest in march.
  
-![sales by month](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/95773901-c61a-48b0-afc9-521bd13ded20)
+![sales line chart](https://github.com/user-attachments/assets/7692c9f3-a259-4151-b0af-6ab347541699)
+
 
 
 7. ⁠Office Supply has the highest profit in product category.
@@ -123,14 +126,15 @@ Rubber band is the least of sales in product sub-category.
  ![product category, sales,profit, avg discont](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/866ad8a8-4a54-4287-a1f5-372470fecf02)
 
 
-9. ⁠Technology items are the most sold in the product category.
+8. ⁠Technology items are the most sold in the product category.
 
-![product category, sales,profit, avg discont](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/1018ed1f-46d5-49ff-96c3-00a33b893197)
 
-10. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
 
- ![line chart](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/3ca833ab-8d30-43bc-a9ce-c6bbb8332419)
+9. ⁠There’s a flunctuating pattern in monthly sales with increment and decrement following each other sequentially.
 
+![sales line chart](https://github.com/user-attachments/assets/e60a14ba-4128-4c6e-b2e2-0a1e4c42ff9b)
+
+ 
 
 ## Conclusion and Recommendation
 ---
