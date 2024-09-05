@@ -1,6 +1,7 @@
 ## Acme Superstore Sales Analysis
 ---
-![acme superstore visual](https://github.com/user-attachments/assets/de0900a5-8e4d-434b-a550-cdf0a212ad5f)
+![acme superstore visual](https://github.com/user-attachments/assets/382bfb6d-4d32-4bbd-b4ab-8170b2009f95)
+
 
 
 
