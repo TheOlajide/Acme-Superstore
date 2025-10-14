@@ -114,7 +114,8 @@ Rubber band being the least in the product sub-category.
   
   -  Appliances
 
-![product sub category by profit](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/1113389e-b229-4873-82c8-14d2343aa504)
+<img width="770" height="326" alt="top 6" src="https://github.com/user-attachments/assets/312b1020-cb80-41f2-97a4-a81e9e7cf457" />
+
 
 
 5. Below are the bottom six least performing products with a negative revenue return(Loss).
@@ -127,7 +128,8 @@ Rubber band being the least in the product sub-category.
   -  Rubber Band
   -  Tables
  
-![product sub category by profit2](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/dc2e6273-9fb9-4abc-9e5c-8d14877aacf2)
+<img width="701" height="292" alt="bottom 6" src="https://github.com/user-attachments/assets/fb53c736-b7d6-4a76-ba34-a8d227d262e2" />
+
 
 
 6. Sales are highest in April and lowest in march.
