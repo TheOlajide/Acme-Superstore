@@ -134,25 +134,28 @@ Rubber band being the least in the product sub-category.
 
 6. Sales are highest in April and lowest in march.
  
-![sales line chart](https://github.com/user-attachments/assets/7692c9f3-a259-4151-b0af-6ab347541699)
+<img width="1373" height="638" alt="sales" src="https://github.com/user-attachments/assets/8d49623a-a715-4da4-b565-09eb58ab44ed" />
+
 
 
 
 7. ⁠Office Supply has the highest profit in product category.
 
-![table4](https://github.com/user-attachments/assets/4c841786-2070-4809-a321-6dbfa9b6c860)
+<img width="665" height="215" alt="office supply" src="https://github.com/user-attachments/assets/4ea01283-cb14-4a46-9b94-9d128cba2e73" />
+
 
  
 
+8. ⁠Technology items has the most sales figure in the product category.
 
-8. ⁠Technology items are the most sold in the product category.
+<img width="687" height="215" alt="technology items" src="https://github.com/user-attachments/assets/47b45250-6f45-44b7-b773-f73a67b77256" />
 
-![table4](https://github.com/user-attachments/assets/f0adbe7e-0cdf-46e3-83a4-65bf046c3188)
 
 
 9. ⁠There’s a flunctuating pattern in monthly profit with increment and decrement following each other sequentially. But increment from april upward.
 
-![waterfall](https://github.com/user-attachments/assets/2da49c08-dacb-4e1a-b280-451ae3fba9af)
+<img width="1376" height="628" alt="profit" src="https://github.com/user-attachments/assets/0ca3481a-e244-4d74-b991-00f18a077a5e" />
+
 
 
  
