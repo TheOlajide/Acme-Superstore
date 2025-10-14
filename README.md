@@ -79,7 +79,8 @@ From the analysis of data, the following can be inferred;
   -  Binders and Binder Accessories.
   -  Storage and Organisation
  
-<img width="1372" height="593" alt="sales by customer segment" src="https://github.com/user-attachments/assets/70edbde3-6790-4a2f-a246-d7e8301cd47e" />
+<img width="791" height="353" alt="sales and profit by product sub category" src="https://github.com/user-attachments/assets/da9a630a-d3aa-4948-8a20-19cc5175532f" />
+
 
 
 
@@ -94,9 +95,10 @@ From the analysis of data, the following can be inferred;
   -  ⁠Labels
 
   -  ⁠Rubber band.
-Rubber band is the least of sales in product sub-category.
+Rubber band being the least in the product sub-category.
 
-![by sales2](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/faf43d24-288d-421e-b2ee-c051e45efa09)
+<img width="617" height="217" alt="bottom five" src="https://github.com/user-attachments/assets/b1ccfd04-9126-4f7e-b71d-7ffcf38138d9" />
+
 
 
 
