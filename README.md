@@ -79,7 +79,7 @@ From the analysis of data, the following can be inferred;
   -  Binders and Binder Accessories.
   -  Storage and Organisation
  
-![product sub category by sales](https://github.com/TheOlajide/Acme-Superstore/assets/155437593/f2084345-44b2-4225-9417-2e27d1026f8f)
+<img width="1372" height="593" alt="sales by customer segment" src="https://github.com/user-attachments/assets/70edbde3-6790-4a2f-a246-d7e8301cd47e" />
 
 
 
