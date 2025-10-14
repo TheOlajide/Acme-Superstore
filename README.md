@@ -67,7 +67,8 @@ From the analysis of data, the following can be inferred;
 
 1. Corporate customers have the highest patronage, folowed by small businesses. But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
 
-![customer](https://github.com/user-attachments/assets/8de0122f-339f-4922-84da-9aeffe76cecb)
+<img width="1372" height="593" alt="sales by customer segment" src="https://github.com/user-attachments/assets/e3d963bd-7358-49f3-b1e1-60990e3e26f9" />
+
 
 
  
