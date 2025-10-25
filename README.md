@@ -32,6 +32,7 @@
 The
 Analyses aim to give insight on sales performance via revenue generation(from each product category and subcategory featured in the Dataset) across a period of six months. It also aims to give insight on sales by four different customer segments(Corporate, Home Office, Small Business and Consumer).
 
+click (here)[https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3&pbi_source=linkShare] to interact with the dashboard.
 
 
 ##  Data Source
