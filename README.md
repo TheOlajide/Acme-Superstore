@@ -39,7 +39,7 @@ Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf
 ##  Data Source
 ---
 
-Dataset is from Acme Business.
+Dataset is for Acme superstore.
 
 
 
@@ -53,14 +53,14 @@ Dataset is from Acme Business.
 ## Data Cleaning and Preparation
 ---
 
-The data is generally clean enough, apart from a white space on one of the columns which was removed. Data cleaning and preparation was carried out in PowerBi. Original dataset was provided in csv format.
+The data is generally clean enough, apart from white spaces which were removed. Data cleaning and preparation was carried out in PowerBi. Original dataset was provided in csv format.
 
 ## Exploratory Data Analysis
 ---
 
 Objectives of EDA:
 
-EDA involved creating visuals to give insight on what’s up with the business.
+EDA involved creating visuals to give insight on business performance.
 
 ## Results and findings
 ---
