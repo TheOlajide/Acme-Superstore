@@ -6,8 +6,9 @@
 
 
 
+<img width="1287" height="722" alt="acme dashboard2" src="https://github.com/user-attachments/assets/71efca87-765d-40b7-8b82-f03f5b220c39" />
 
-<img width="1287" height="721" alt="acme dashboard2" src="https://github.com/user-attachments/assets/29b3f647-812a-48f3-aa9d-6431e4e60fc2" />
+
 
 
 
