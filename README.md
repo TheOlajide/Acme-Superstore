@@ -1,6 +1,7 @@
 ## Acme Superstore Sales Analysis
 ---
-<img width="1287" height="722" alt="acme dashboard" src="https://github.com/user-attachments/assets/9f10be6d-bf09-46eb-80f3-c6aad365fe74" />
+<img width="1286" height="722" alt="acme dashboard" src="https://github.com/user-attachments/assets/018b9ff8-8d7f-4786-84c1-431b63c562eb" />
+
 
 
 
@@ -24,8 +25,6 @@
 ## Table of content
 
 - [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools](#tools)
 - [Data Cleaning and preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and Findings](#results-and-findings)
@@ -34,25 +33,9 @@
 
 ##  Project overview
 ---
-The
-Analyses aim to give insight on sales performance via revenue generation(from each product category and subcategory featured in the Dataset) across a period of six months. It also aims to give insight on sales by four different customer segments(Corporate, Home Office, Small Business and Consumer).
-
+This Analyses is for Acme superstore business, carried out on powerBi. It aims to give insight on sales performance via revenue generation(from each product category and subcategory), and four different customer segments(Corporate, Home Office, Small Business, Consumer) across the six months business operation period.
 Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3&pbi_source=linkShare) to interact with the dashboard.
 
-
-##  Data Source
----
-
-Dataset is for Acme superstore.
-
-
-
-## Tools
----
-
-  -  Microsoft Excel
-
-  -  Microsoft PowerBI
 
 ## Data Cleaning and Preparation
 ---
@@ -62,9 +45,8 @@ The data is generally clean enough, apart from white spaces which were removed. 
 ## Exploratory Data Analysis
 ---
 
-Objectives of EDA:
-
-EDA involved creating visuals to give insight on business performance.
+The Average Sales per Customer metric tells us that $.7k is being made in sales revenue on each customer, and 
+The Average Transaction Value metric tells us that on average, customers spend $1k per transaction (i.e in a single purchase at the store). 
 
 ## Results and findings
 ---
