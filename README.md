@@ -1,6 +1,7 @@
 ## Acme Superstore Sales Analysis
 ---
-<img width="1286" height="722" alt="acme dashboard" src="https://github.com/user-attachments/assets/b5e8eb19-c15f-4591-b4da-8890b1bda2e1" />
+
+<img width="1288" height="720" alt="acme dashboard" src="https://github.com/user-attachments/assets/4a57a506-3a45-4a33-8156-2a3f452739e6" />
 
 
 
@@ -8,7 +9,9 @@
 
 
 
-<img width="1286" height="721" alt="acme dashboard2" src="https://github.com/user-attachments/assets/d43b59b4-2e71-430c-908f-86fadcc31300" />
+<img width="1288" height="725" alt="acme dashboard2" src="https://github.com/user-attachments/assets/db47ec93-29f4-4a91-9efb-17b8c13b42a1" />
+
+
 
 
 
@@ -26,155 +29,78 @@
 ## Table of content
 
 - [Project Overview](#project-overview)
-- [Data Cleaning and preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and Findings](#results-and-findings)
-- [Conclusion and Recommendation](#conclusion-and-recommendation)
-- [Limitations](#limitations) 
+- [Conclusion](#conclusion)
+- [Recommendation](#recommendation)
 
 ##  Project overview
 ---
-This Analyses is for Acme superstore business, carried out on powerBi. It aims to give insight on sales performance via revenue generation(from each product category and subcategory), and four different customer segments(Corporate, Home Office, Small Business, Consumer) across the six months business operation period.
+Acme Superstore is a wholesale business that sells a variety of products to different customer segments, including Small Businesses, Home Offices, Corporate Firms, and Final Consumers.
+
+The store offers 913 unique products, organized into seventeen sub-categories, which are further grouped into three major product categories:
+
+- Office Supplies
+
+- Technology Items
+
+- Furniture Items
+
 Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3&pbi_source=linkShare) to interact with the dashboard.
-
-
-## Data Cleaning and Preparation
----
-
-The data is generally clean enough, apart from white spaces which were removed. Data cleaning and preparation was carried out in PowerBi. Original dataset was provided in csv format.
-
-## Exploratory Data Analysis
----
-
-The Average Sales per Customer metric tells us that $.7k is being made in sales revenue on each customer, and 
-The Average Transaction Value metric tells us that on average, customers spend $1k per transaction (i.e in a single purchase at the store). 
 
 ## Results and findings
 ---
+- The Average Sales per Customer metric tells us that $.7k is being made in sales revenue on each customer, and 
+- The Average Transaction Value metric tells us that on average, customers spend $1k per transaction (i.e in a single purchase at the store).
+- profit margin 11.6%
 
-From the analysis of data, the following can be inferred;
+### Product Category Performance
+The distribution of total profit across these categories reveals that Office Supplies contribute the most profit (40% of total), Technology Items account for 34%, and Furniture Items generate the least (26%). This indicates that Office Supplies remain the most profitable category overall.
 
-1. Corporate customers have the highest patronage, folowed by small businesses. But small business bring a higher return($0.07m profit) as compared to the Corporate and the rest($0.05m).
+### Customer Segment Insights
+An analysis of profit and sales by customer segment shows the following:
 
-<img width="1372" height="593" alt="sales by customer segment" src="https://github.com/user-attachments/assets/e3d963bd-7358-49f3-b1e1-60990e3e26f9" />
+1. Small Businesses – Contribute 29% of total profit (highest) and 21% of total sales
+revenue (lowest). This means Small Business customers are the most profitable
+despite lower sales volume.
 
+2. Corporate and Home Office – Each contributes around 24% of profit, showing
+moderate profitability.
 
+3. Consumer Segment – Accounts for 22% of profit, the lowest among all segments.
+Overall, Small Businesses emerge as the most valuable segment in terms of profitability, while Corporate customers, though high spenders, yield lower profit margins comparatively.
 
- 
-2. ⁠(Top six sales)Office Machines have the highest sales in product sub-category, followed by
-  - Chairs & chairmats
-  - Telephone and communication
-  -  Tables
-  -  Binders and Binder Accessories.
-  -  Storage and Organisation
- 
-<img width="791" height="353" alt="sales and profit by product sub category" src="https://github.com/user-attachments/assets/da9a630a-d3aa-4948-8a20-19cc5175532f" />
-
-
-
-
-3. ⁠Bottom Five product subcategory by Sales are;
-
-  -  pens and Arts Supplies
-
-  -  Envelopes
-
-  -  Scissors rulers trimmers
-
-  -  ⁠Labels
-
-  -  ⁠Rubber band.
-Rubber band being the least in the product sub-category.
-
-<img width="617" height="217" alt="bottom five" src="https://github.com/user-attachments/assets/b1ccfd04-9126-4f7e-b71d-7ffcf38138d9" />
+### Monthly Profit Trends
+Monthly analysis indicates significant losses in January for Furniture products and in March for Technology products. These losses were not tied to low sales, as sales figures during these months remained relatively high. This implies that the losses stemmed from other factors such as pricing strategies, cost fluctuations, or discounting inefficiencies.
 
 
-
-
-4. ⁠Binders and Binder Accessories are the most profitable product in product sub-category, followed by
-
-  -  Chairs and chairmat
-
-  -  Telephones and communication
-
-  -   ⁠Copiers and Fax
-
-  -  Office Furnitures
-  
-  -  Appliances
-
-<img width="770" height="326" alt="top 6" src="https://github.com/user-attachments/assets/312b1020-cb80-41f2-97a4-a81e9e7cf457" />
-
-
-
-5. Below are the bottom six least performing products with a negative revenue return(Loss).
-
-  -  Pens and Arts Supplies
-  -  Bookcases
-  -  envelopes
-  -  scissors
-  -  Rulers and Trimmers
-  -  Rubber Band
-  -  Tables
- 
-<img width="701" height="292" alt="bottom 6" src="https://github.com/user-attachments/assets/fb53c736-b7d6-4a76-ba34-a8d227d262e2" />
-
-
-
-6. Sales are highest in April and lowest in march.
- 
-<img width="1373" height="638" alt="sales" src="https://github.com/user-attachments/assets/8d49623a-a715-4da4-b565-09eb58ab44ed" />
-
-
-
-
-7. ⁠Office Supply has the highest profit in product category.
-
-<img width="665" height="215" alt="office supply" src="https://github.com/user-attachments/assets/4ea01283-cb14-4a46-9b94-9d128cba2e73" />
-
-
- 
-
-8. ⁠Technology items has the most sales figure in the product category.
-
-<img width="687" height="215" alt="technology items" src="https://github.com/user-attachments/assets/47b45250-6f45-44b7-b773-f73a67b77256" />
-
-
-
-9. ⁠There’s a flunctuating pattern in monthly profit with increment and decrement following each other sequentially. But increment from april upward.
-
-<img width="1376" height="628" alt="profit" src="https://github.com/user-attachments/assets/0ca3481a-e244-4d74-b991-00f18a077a5e" />
-
-
-
- 
-
-## Conclusion and Recommendation
+## Conclusion
 ---
+Sales figures and profits are not directly proportional. Maximizing business performance requires targeted strategies tailored to each product category and customer segment.
 
-1. There are six low performing products that the company can stop selling with immediate effect. It can be inferred that they are not just low performing but bad performing, returning a loss and reducing overall revenue return.
+A clear understanding of the drivers behind sales and profit performance—particularly the strength of the Small-Business segment and the profitability of Office Supplies—will ensure that future decisions are data-driven and focused on sustainable growth.
+
+The following should be considered;
+1. There are some six all-time poor performing products, they amount to a loss of $12, 458.48, reducing overall profit by 5.56%.
 
 These products are;
+Pens and art supplies, Bookcases, envelopes, scissors, rulers and trimmers, rubber band, tables
 
-  -  Pens and art supplies
-  -  Bookcases
-  -  envelopes
-  -  sccissors, rulers and trimmers.
-  -  rubber band
-  -  tables
-
-They amount to a loss of $12, 458.48 which is about 5.56% of total profit.
-
-2. Office Machines is the top Product Sub-category by sales. The implication of this is that Office Machines is the most sold item. However, it returns a very low profit. To maximize profit on this highly sought product, company needs to have an upward review of it’s Selling price.
-Office machine contributes about 3.94% of total profit as compared to a relatively less sought product(Binders and Binder accessories, 4th by sales) which boasts about 26.46% of the total profit. 
+2. Office Machines is the number one product by sales. However, it is low on profit. To maximize profit, business needs to have an upward review of it’s selling price. Office machine contributes about 3.94% of total profit as compared to a relatively less sales product (Binders and Binder accessories) which boasts about 26.46% of the total profit. 
 
 3. To prevent further profit loss, discounts should be removed totally from less profitable items and focused on more profitable items.
 
-4. ⁠Discount should be removed from products with low sales(as this has no effect on sales).
+4. ⁠Products with high sales and low profit like Storage and organization should have an upward review on selling price while the ones with low sales and high profit return should be discounted.
 
-5. ⁠Products sub-categories with high sales and low profit(e.g Storage and organization) should have an upward review on selling price while products sub-categories with low sales and high revenue return(profit) should be discounted.
-
-## Limitations
+## Recommendation
 ---
 
-There are no limitations in the analysis and exploration of this dataset.
+1. Increase Focus on Small-Business Products – Prioritize and expand offerings targeted at small-business customers as they provide the highest profitability ratio.
+
+2. Implement Tiered Discounts for Bulk Purchases – Introduce attractive discount structures to encourage higher order volumes, particularly among small-business
+customers.
+
+3. Avoid Discounting Low-Profit Products – Products with minimal profit margins should not be discounted to maintain profitability.
+
+4. Strategic Product Pricing and Cost Review – Re-evaluate pricing and cost structures for Furniture and Technology categories to address observed losses.
+
+
