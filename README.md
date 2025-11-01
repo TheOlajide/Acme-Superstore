@@ -11,7 +11,8 @@
 
 
 
-<img width="1288" height="725" alt="acme dashboard2" src="https://github.com/user-attachments/assets/db47ec93-29f4-4a91-9efb-17b8c13b42a1" />
+<img width="1287" height="727" alt="acme dashboard2" src="https://github.com/user-attachments/assets/35899437-5eba-4c65-869b-a9ca2c4e9ca0" />
+
 
 
 
