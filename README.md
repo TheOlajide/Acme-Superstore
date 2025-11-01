@@ -1,7 +1,9 @@
 ## Acme Superstore Sales Analysis
 ---
+<img width="1292" height="727" alt="acme dashboard" src="https://github.com/user-attachments/assets/3e3f6f98-df14-4d82-bf67-43ebd6005c0b" />
 
-<img width="1288" height="720" alt="acme dashboard" src="https://github.com/user-attachments/assets/4a57a506-3a45-4a33-8156-2a3f452739e6" />
+
+
 
 
 
@@ -45,7 +47,7 @@ The store offers 913 unique products, organized into seventeen sub-categories, w
 
 - Furniture Items
 
-Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3&pbi_source=linkShare) to interact with the dashboard.
+Click [here]([https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3&pbi_source=linkShare](https://app.powerbi.com/reportEmbed?reportId=97cb2ffa-8d47-492b-b081-4fc7b406a689&autoAuth=true&ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3)) to interact with the dashboard.
 
 ## Results and findings
 ---
@@ -72,6 +74,7 @@ despite lower sales volume.
 moderate profitability.
 
 3. Consumer Segment – Accounts for 22% of profit, the lowest among all segments.
+
 Overall, Small Businesses emerge as the most valuable segment in terms of profitability, while Corporate customers, though high spenders, yield lower profit margins comparatively.
 
 ### Monthly Profit Trends
@@ -87,14 +90,20 @@ A clear understanding of the drivers behind sales and profit performance—parti
 The following should be noted;
 1. There are six all-time poor performing products and they amount to a loss of $12 458, reducing overall profit by -5.56%.
 
-These products are listed below and should be paid special attention;
-Pens and art supplies, Bookcases, envelopes, scissors, rulers and trimmers, rubber band, tables
+  These products are listed below and should be paid special attention;
+- Pens and art supplies
+- Bookcases
+- Envelopes
+- Scissors
+- Rulers and trimmers
+- Rubber band
+- Tables
 
 2. Office Machines is the number one product by sales. However, it is low on profit. Office machine contributes about 3.94% of total profit compared to a product like Binders and Binder accessories which has a relatively less sales figure but boasts of 26.46% of the total profit. This disparity shows that sales advantage for office machines is underutilized. To maximize profit, the superstore needs to have an upward review of selling price for office machine.
 
-3. To prevent further profit loss, discounts should be removed totally from less profitable items and focused on more profitable items.
+3. To prevent further profit loss, discounts should be totally removed from less profitable items and focused on more profitable items.
 
-4. ⁠Products with high sales and low profit like Storage and organization should have an upward review on selling price while the ones with low sales and high profit return should be discounted.
+4. ⁠Products with high sales and low profit like Storage and organization should have an upward review on selling price while the ones with low sales and high profit return should be discounted to attract more sales.
 
 ## Recommendation
 ---
