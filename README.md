@@ -50,11 +50,13 @@ Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf
 ## Results and findings
 ---
 Acme Superstore achieved $1.9 million in total sales, earning $224.1k in profit — an indicator of reasonable customer engagement and consistent sales activity.
-On average, each transaction brings in about $1,000 in sales, with a profit of roughly $116 per sale.
+With an average transaction value (ATV) of $1,000, customers typically make high-value purchases, indicating strong basket sizes and spending capacity. (i.e On average, each transaction brings in about $1,000 in sales), and a profit of roughly $115 per sale.
 
 This puts the store’s profit margin at 11.6%, showing that while the business is moderately profitable, there is room to grow by optimizing product pricing.
 
 A profit margin of 12%, suggests an average sales performance as industry average for the wholesale/retail industry is usually between 10-15%. However, we bear in mind that superstores often operate on thin profit margin due to intense competition, high operational costs and low prices. Hence, they rely on high sales volumes to compesate for lower profit margin.
+
+Overall, the business is performing steadily — strong in sales volume, moderate in profit generation, and positioned for growth through better margin management and product pricing strategies.
 
 ### Product Category Performance
 The distribution of total profit across these categories reveals that Office Supplies contribute the most profit (40% of total), Technology Items account for 34%, and Furniture Items generate the least (26%). This indicates that Office Supplies remain the most profitable category overall.
@@ -83,7 +85,7 @@ Sales figures and profits are not directly proportional. Maximizing business per
 A clear understanding of the drivers behind sales and profit performance—particularly the strength of the Small-Business segment and the profitability of Office Supplies—will ensure that future decisions are data-driven and focused on sustainable growth.
 
 The following should be noted;
-1. There are some six all-time poor performing products, they amount to a loss of $12 458, reducing overall profit by -5.56%.
+1. There are six all-time poor performing products and they amount to a loss of $12 458, reducing overall profit by -5.56%.
 
 These products are listed below and should be paid special attention;
 Pens and art supplies, Bookcases, envelopes, scissors, rulers and trimmers, rubber band, tables
