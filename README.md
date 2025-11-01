@@ -49,9 +49,12 @@ Click [here](https://app.powerbi.com/links/HMPy9fggSS?ctid=e4f72e8c-6bf5-4ffe-bf
 
 ## Results and findings
 ---
-- The Average Sales per Customer metric tells us that $.7k is being made in sales revenue on each customer, and 
-- The Average Transaction Value metric tells us that on average, customers spend $1k per transaction (i.e in a single purchase at the store).
-- profit margin 11.6%
+Acme Superstore achieved $1.9 million in total sales, earning $224.1k in profit — an indicator of reasonable customer engagement and consistent sales activity.
+On average, each transaction brings in about $1,000 in sales, with a profit of roughly $116 per sale.
+
+This puts the store’s profit margin at 11.6%, showing that while the business is moderately profitable, there is room to grow by optimizing product pricing.
+
+A profit margin of 12%, suggests an average sales performance as industry average for the wholesale/retail industry is usually between 10-15%. However, we bear in mind that superstores often operate on thin profit margin due to intense competition, high operational costs and low prices. Hence, they rely on high sales volumes to compesate for lower profit margin.
 
 ### Product Category Performance
 The distribution of total profit across these categories reveals that Office Supplies contribute the most profit (40% of total), Technology Items account for 34%, and Furniture Items generate the least (26%). This indicates that Office Supplies remain the most profitable category overall.
@@ -79,13 +82,13 @@ Sales figures and profits are not directly proportional. Maximizing business per
 
 A clear understanding of the drivers behind sales and profit performance—particularly the strength of the Small-Business segment and the profitability of Office Supplies—will ensure that future decisions are data-driven and focused on sustainable growth.
 
-The following should be considered;
-1. There are some six all-time poor performing products, they amount to a loss of $12, 458.48, reducing overall profit by 5.56%.
+The following should be noted;
+1. There are some six all-time poor performing products, they amount to a loss of $12 458, reducing overall profit by -5.56%.
 
-These products are;
+These products are listed below and should be paid special attention;
 Pens and art supplies, Bookcases, envelopes, scissors, rulers and trimmers, rubber band, tables
 
-2. Office Machines is the number one product by sales. However, it is low on profit. To maximize profit, business needs to have an upward review of it’s selling price. Office machine contributes about 3.94% of total profit as compared to a relatively less sales product (Binders and Binder accessories) which boasts about 26.46% of the total profit. 
+2. Office Machines is the number one product by sales. However, it is low on profit. Office machine contributes about 3.94% of total profit compared to a product like Binders and Binder accessories which has a relatively less sales figure but boasts of 26.46% of the total profit. This disparity shows that sales advantage for office machines is underutilized. To maximize profit, the superstore needs to have an upward review of selling price for office machine.
 
 3. To prevent further profit loss, discounts should be removed totally from less profitable items and focused on more profitable items.
 
@@ -94,9 +97,9 @@ Pens and art supplies, Bookcases, envelopes, scissors, rulers and trimmers, rubb
 ## Recommendation
 ---
 
-1. Increase Focus on Small-Business Products – Prioritize and expand offerings targeted at small-business customers as they provide the highest profitability ratio.
+1. Increase focus on Small-Business Products – Prioritize and expand offerings targeted at small-business customers as they provide the highest profitability ratio.
 
-2. Implement Tiered Discounts for Bulk Purchases – Introduce attractive discount structures to encourage higher order volumes, particularly among small-business
+2. Implement Discounts for Bulk Purchases – Introduce attractive discount structures to encourage higher order volumes, particularly among small-business
 customers.
 
 3. Avoid Discounting Low-Profit Products – Products with minimal profit margins should not be discounted to maintain profitability.
