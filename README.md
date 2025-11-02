@@ -48,7 +48,7 @@ The store offers 913 unique products, organized into seventeen sub-categories, w
 
 - Furniture Items
 
-Click [here](https://app.powerbi.com/reportEmbed?reportId=97cb2ffa-8d47-492b-b081-4fc7b406a689&autoAuth=true&ctid=e4f72e8c-6bf5-4ffe-bf1e-f8af433503b3) to interact with the dashboard.
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiNGVjZTQ3MWQtYmUzNC00NGIzLWJjODItYzE3MTYxYTY2OWFkIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with the dashboard.
 
 ## Results and findings
 ---
