@@ -7,7 +7,8 @@
 
 
 
-<img width="1331" height="726" alt="overview_acme" src="https://github.com/user-attachments/assets/cf25cec4-1d0e-4032-a09e-efd137dde136" />
+<img width="1331" height="726" alt="products_acme" src="https://github.com/user-attachments/assets/deb76a82-817b-401b-b664-59089a49a882" />
+
 
 
 
