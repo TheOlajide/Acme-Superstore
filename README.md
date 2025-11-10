@@ -1,13 +1,15 @@
 ## Acme Superstore Sales Analysis
 ---
-<img width="1332" height="725" alt="overview_acme" src="https://github.com/user-attachments/assets/acd501dc-9b43-4aad-81f8-04d95faf20ce" />
+<img width="1332" height="726" alt="overview_acme" src="https://github.com/user-attachments/assets/e4b1c87f-4302-4783-ab4e-eba62a991d78" />
 
 
 
 
 
 
-<img width="1331" height="728" alt="products_acme" src="https://github.com/user-attachments/assets/5c134f6f-c2d1-48e6-aae7-83a6e03ed4c8" />
+
+<img width="1328" height="723" alt="products_acme" src="https://github.com/user-attachments/assets/71243a4f-7c17-456c-b5f4-bd18a171c7e9" />
+
 
 
 
