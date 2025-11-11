@@ -46,12 +46,12 @@
 
 ## Table of content
 
-- [Project Overview](#project-overview)
+- [Overview](overview)
 - [Results and Findings](#results-and-findings)
 - [Conclusion](#conclusion)
 - [Recommendation](#recommendation)
 
-##  Project overview
+## overview
 ---
 Acme Superstore is a wholesale business that sells a variety of products to different customer segments, including Small Businesses, Home Offices, Corporate Firms, and Final Consumers.
 
